@@ -1,0 +1,77 @@
+
+
+.box
+{
+	overflow: auto;
+	height: 500px;
+}
+
+.brandLabel
+{
+	font-family: Pacifico Regular;
+	font-size: 30px;
+	text-shadow: 3px 3px 3px black, 0 0 1em blue;
+}
+
+.handwritedLabel
+{
+	font-size: 25px;
+	font-family: MrBedfort-Regular; 
+}
+
+.navBox
+{
+	background: rgba(0, 0, 0, 0.8); 
+    color: white; 
+    padding: 5px;
+}
+
+.songTextCarouselCaption
+{
+	line-height: 0.3;
+	background: rgba(0, 0, 0, 0.6); 
+	font-size: 18px;
+
+}
+
+.blackStyleBackground
+{
+	background: rgba(0,0,0,1);
+}
+
+.backgroundBlogStart {
+    background-image:url("bg-img/source.gif");
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+
+.nol1
+{
+	line-height: 1;
+	font-family: MrBedfort-Regular;
+}
+
+
+@font-face {
+	font-family: Pacifico Regular;
+	src:url("fonts/Pacifico-Regular.ttf");
+}
+
+@font-face {
+	font-family: MrBedfort-Regular;
+	src:url("fonts/MrBedfort-Regular.ttf");
+}
+
+@font-face {
+	font-family: NothingYouCouldDo;
+	src:url("fonts/NothingYouCouldDo.ttf");
+}
+
+@font-face {
+	font-family: Rancho-Regular;
+	src:url("fonts/Rancho-Regular.ttf");
+}
